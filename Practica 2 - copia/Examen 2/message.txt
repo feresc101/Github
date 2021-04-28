@@ -1,0 +1,99 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <title>Examen</title>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
+        integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+</head>
+
+<style>
+    .center {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 25%;
+    }
+</style>
+
+<body>
+    <img src="material/logo-gobmx.svg" alt="" style="width: 10%;">
+    <img src="material/header.png" alt="header" title="header" style="max-width: 100%; width: auto; height: auto;">
+    <div class="row m-5">
+
+        <div class="col-8" style="text-align: center;">
+            <h1 style="text-align: left;">Avances de Investigación en
+                Ingeniería en el Estado de Sonora.</h1>
+
+            <p style="text-align: left;">Avances de Investigación en Ingeniería en el Estado de Sonora, es una
+                publicación anual
+                publicada y editada por el Tecnológico Nacional de México dependiente de la Secretaría de
+                Educación Pública, a través del Instituto Tecnológico de Hermosillo por la División de Estudios
+                de Posgrado e Investigación, Arcos de Belén Núm. 79, piso 3, Colonia Centro, Delegación
+                Cuauhtémoc, C.P. 06010, Ciudad de México, Tel. (55)3601-7500, Ext. 65064, correo
+                electrónico: d_vinculacion05@tecnm.mx</p>
+            <p style="text-align: left;">Reserva de derechos al uso exclusivo 04-2015-101310132700-203,</p>
+
+            <h2 style="text-align: left;">ISSN: 2448-7473</h2>
+
+            <p style="text-align: left;"> Ambos otorgados por el Instituto Nacional del Derecho de Autor.</p>
+
+            <p style="text-align: left;">En ella se presentan los avances realizados como resultado de proyectos de
+                investigación de
+                docentes e investigadores, así como estudiantes de posgrados, participantes en las
+                licenciaturas y posgrados en áreas de Ingeniería en el Instituto Tecnológico de Hermosillo, la
+                Universidad de Sonora, y el Instituto Tecnológico de Sonora.</p>
+
+            <p style="text-align: left;">Todos los derechos reservados a nombre del Instituto Tecnológico de Hermosillo,
+                a través de
+                la Secretaría de Educación Pública - Tecnológico Nacional de México.</p>
+
+
+        </div>
+
+        <div class="col-4" style="text-align: center;">
+            <img src="material/portada2019.jpg" alt="" style="width: 70%;">
+            <br>
+            Descargue el último volumen (Año 4, Núm 1) desde el siguiente enlace:
+            <a href="material/aviies-2019.pdf">AvIIES 2018</a>
+        </div>
+    </div>
+    <div class="m-5">
+        <h4>Editor Responsable</h3>
+        <p>Dr. Oscar Mario Rodríguez Elías.</p>
+
+        <h4>Comité editorial</h3>
+
+        <ul>
+            <li>Dr. Mario Barceló Valenzuela.</li>
+            <li>Dr. Alonso Pérez Soltero.</li>
+            <li>Dr. Guillermo Valencia Palomo.</li>
+            <li>Dr. Ramón Rene Palacio Cinco.</li>
+            <li>Dr. Joaquín Cortez Guzmán.</li>
+        </ul>
+    </div>
+
+    <br>
+
+    <img src="material/logosep.png" alt="" class="center">
+    <br>
+    <p style="text-align: center; color: grey;" >
+        Instituto Tecnológico de Hermosillo: <a href="www.ith.mx">www.ith.mx, cyd_hermosillo@tecnm.mx</a>
+    </p>
+
+    <p style="text-align: center; color: grey;">
+        Ave. Tecnológico y Periferico Poniente S/N C.P. 83170 Colonia Sahuaro, Hermosillo Sonora, México
+    </p>
+
+    <p style="text-align: center; color: grey;">
+        Teléfonos :(10 662) 2 60 65 00
+    </p>
+
+</body>
+
+</html>
