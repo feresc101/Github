@@ -1,0 +1,54 @@
+C:\Users\fcoda\source\repos\Paint\frmPaint\bin\Debug\frmPaint.exe.config
+C:\Users\fcoda\source\repos\Paint\frmPaint\bin\Debug\frmPaint.exe
+C:\Users\fcoda\source\repos\Paint\frmPaint\bin\Debug\frmPaint.pdb
+C:\Users\fcoda\source\repos\Paint\frmPaint\obj\Debug\frmPaint.csprojAssemblyReference.cache
+C:\Users\fcoda\source\repos\Paint\frmPaint\obj\Debug\frmPaint.Form1.resources
+C:\Users\fcoda\source\repos\Paint\frmPaint\obj\Debug\frmPaint.frmAcercaDe.resources
+C:\Users\fcoda\source\repos\Paint\frmPaint\obj\Debug\frmPaint.Properties.Resources.resources
+C:\Users\fcoda\source\repos\Paint\frmPaint\obj\Debug\frmPaint.csproj.GenerateResource.cache
+C:\Users\fcoda\source\repos\Paint\frmPaint\obj\Debug\frmPaint.csproj.CoreCompileInputs.cache
+C:\Users\fcoda\source\repos\Paint\frmPaint\obj\Debug\frmPaint.exe
+C:\Users\fcoda\source\repos\Paint\frmPaint\obj\Debug\frmPaint.pdb
+C:\Users\LAB_Sistemas_ITH\Desktop\Paint\frmPaint\bin\Debug\frmPaint.exe.config
+C:\Users\LAB_Sistemas_ITH\Desktop\Paint\frmPaint\bin\Debug\frmPaint.exe
+C:\Users\LAB_Sistemas_ITH\Desktop\Paint\frmPaint\bin\Debug\frmPaint.pdb
+C:\Users\LAB_Sistemas_ITH\Desktop\Paint\frmPaint\obj\Debug\frmPaint.csprojAssemblyReference.cache
+C:\Users\LAB_Sistemas_ITH\Desktop\Paint\frmPaint\obj\Debug\frmPaint.Form1.resources
+C:\Users\LAB_Sistemas_ITH\Desktop\Paint\frmPaint\obj\Debug\frmPaint.frmAcercaDe.resources
+C:\Users\LAB_Sistemas_ITH\Desktop\Paint\frmPaint\obj\Debug\frmPaint.Properties.Resources.resources
+C:\Users\LAB_Sistemas_ITH\Desktop\Paint\frmPaint\obj\Debug\frmPaint.csproj.GenerateResource.cache
+C:\Users\LAB_Sistemas_ITH\Desktop\Paint\frmPaint\obj\Debug\frmPaint.csproj.CoreCompileInputs.cache
+C:\Users\LAB_Sistemas_ITH\Desktop\Paint\frmPaint\obj\Debug\frmPaint.exe
+C:\Users\LAB_Sistemas_ITH\Desktop\Paint\frmPaint\obj\Debug\frmPaint.pdb
+C:\Users\FERNANDO ESCALANTE\Desktop\Paint\frmPaint\bin\Debug\frmPaint.exe.config
+C:\Users\FERNANDO ESCALANTE\Desktop\Paint\frmPaint\bin\Debug\frmPaint.exe
+C:\Users\FERNANDO ESCALANTE\Desktop\Paint\frmPaint\bin\Debug\frmPaint.pdb
+C:\Users\FERNANDO ESCALANTE\Desktop\Paint\frmPaint\obj\Debug\frmPaint.csprojAssemblyReference.cache
+C:\Users\FERNANDO ESCALANTE\Desktop\Paint\frmPaint\obj\Debug\frmPaint.Form1.resources
+C:\Users\FERNANDO ESCALANTE\Desktop\Paint\frmPaint\obj\Debug\frmPaint.frmAcercaDe.resources
+C:\Users\FERNANDO ESCALANTE\Desktop\Paint\frmPaint\obj\Debug\frmPaint.Properties.Resources.resources
+C:\Users\FERNANDO ESCALANTE\Desktop\Paint\frmPaint\obj\Debug\frmPaint.csproj.GenerateResource.cache
+C:\Users\FERNANDO ESCALANTE\Desktop\Paint\frmPaint\obj\Debug\frmPaint.csproj.CoreCompileInputs.cache
+C:\Users\FERNANDO ESCALANTE\Desktop\Paint\frmPaint\obj\Debug\frmPaint.exe
+C:\Users\FERNANDO ESCALANTE\Desktop\Paint\frmPaint\obj\Debug\frmPaint.pdb
+C:\Users\Equipo-Windows 10\Documents\PainFer\Paint\frmPaint\obj\Debug\frmPaint.csprojAssemblyReference.cache
+C:\Users\Equipo-Windows 10\Documents\PainFer\Paint\frmPaint\obj\Debug\frmPaint.Form1.resources
+C:\Users\Equipo-Windows 10\Documents\PainFer\Paint\frmPaint\obj\Debug\frmPaint.frmAcercaDe.resources
+C:\Users\Equipo-Windows 10\Documents\PainFer\Paint\frmPaint\obj\Debug\frmPaint.Properties.Resources.resources
+C:\Users\Equipo-Windows 10\Documents\PainFer\Paint\frmPaint\obj\Debug\frmPaint.csproj.GenerateResource.cache
+C:\Users\Equipo-Windows 10\Documents\PainFer\Paint\frmPaint\obj\Debug\frmPaint.exe
+C:\Users\Equipo-Windows 10\Documents\PainFer\Paint\frmPaint\obj\Debug\frmPaint.pdb
+C:\Users\Equipo-Windows 10\Documents\PainFer\Paint\frmPaint\bin\Debug\frmPaint.exe.config
+C:\Users\Equipo-Windows 10\Documents\PainFer\Paint\frmPaint\bin\Debug\frmPaint.exe
+C:\Users\Equipo-Windows 10\Documents\PainFer\Paint\frmPaint\bin\Debug\frmPaint.pdb
+D:\Github\Github\Practica 2 - copia\Examen 2\Paint\frmPaint\bin\Debug\frmPaint.exe.config
+D:\Github\Github\Practica 2 - copia\Examen 2\Paint\frmPaint\bin\Debug\frmPaint.exe
+D:\Github\Github\Practica 2 - copia\Examen 2\Paint\frmPaint\bin\Debug\frmPaint.pdb
+D:\Github\Github\Practica 2 - copia\Examen 2\Paint\frmPaint\obj\Debug\frmPaint.csprojAssemblyReference.cache
+D:\Github\Github\Practica 2 - copia\Examen 2\Paint\frmPaint\obj\Debug\frmPaint.Form1.resources
+D:\Github\Github\Practica 2 - copia\Examen 2\Paint\frmPaint\obj\Debug\frmPaint.frmAcercaDe.resources
+D:\Github\Github\Practica 2 - copia\Examen 2\Paint\frmPaint\obj\Debug\frmPaint.Properties.Resources.resources
+D:\Github\Github\Practica 2 - copia\Examen 2\Paint\frmPaint\obj\Debug\frmPaint.csproj.GenerateResource.cache
+D:\Github\Github\Practica 2 - copia\Examen 2\Paint\frmPaint\obj\Debug\frmPaint.csproj.CoreCompileInputs.cache
+D:\Github\Github\Practica 2 - copia\Examen 2\Paint\frmPaint\obj\Debug\frmPaint.exe
+D:\Github\Github\Practica 2 - copia\Examen 2\Paint\frmPaint\obj\Debug\frmPaint.pdb
