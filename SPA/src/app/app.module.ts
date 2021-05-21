@@ -10,6 +10,8 @@ import { HeroesComponent } from './heroes/heroes.component';
 import { HomeComponent } from './home/home.component';
 import { NombrecomponenteComponent } from './folder/nombrecomponente/nombrecomponente.component';
 import { NavbarComponent } from './shared/navbar/navbar.component';
+import { AppRoutingModule } from './app.routing';
+
 
 @NgModule({
   declarations: [
@@ -22,9 +24,12 @@ import { NavbarComponent } from './shared/navbar/navbar.component';
     HomeComponent,
     NombrecomponenteComponent,
     NavbarComponent
+    
   ],
   imports: [
-    BrowserModule
+    BrowserModule,
+    AppRoutingModule
+
   ],
   providers: [],
   bootstrap: [AppComponent]
