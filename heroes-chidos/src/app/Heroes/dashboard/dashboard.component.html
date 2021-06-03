@@ -1,0 +1,13 @@
+<h1>Top of Heroes</h1>
+<div class="row m-5">
+    <div *ngFor="let heroe of heroes | slice:0:4;  let i = index" class="list-group list-group-flush col-2">
+        <div>
+            <div class="card text-dark bg-info mb-3" style="max-width: 18rem;">
+                <div class="card-body">
+                  <h5 class="card-title">{{heroe.name}}</h5>
+                </div>
+              </div>
+        </div>
+
+    </div>
+</div>
