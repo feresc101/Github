@@ -1,0 +1,21 @@
+<div class="row">
+  <h1 class="display-3">Lista de contactos</h1>
+
+
+  <div *ngFor="let dato of datos;   let i = index" class="list-group list-group-flush col-2">
+
+
+    <div class="card" style="width: 18rem;">
+      <div class="card-body">
+        <h5 class="card-title">{{dato.apellidos}}</h5>
+        <h5 class="card-title">{{dato.nombre}} ({{dato.genero}})</h5>
+        <p class="card-text"> {{dato.descripcion}}</p>
+        <a href="#" class="btn btn-primary">ver detalles</a>
+      </div>
+    </div>
+
+    
+
+
+  </div>
+</div>
